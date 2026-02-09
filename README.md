@@ -170,3 +170,7 @@ Drill-through product insights
 
 The Sales & Performance Dashboard provides a centralized and interactive view of business performance using modern BI visualization and data storytelling techniques.
 
+👤 Author
+
+Suresh Thapa
+Data Analytics | Power BI | Business Intelligence
