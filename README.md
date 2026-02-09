@@ -13,6 +13,12 @@ Category-wise order distribution
 Geographic sales distribution
 
 Product-level performance insights
+
+🖼 Dashboard Preview
+
+<img width="2148" height="1216" alt="SalesDashboard" src="https://github.com/user-attachments/assets/c823c92e-007b-429c-a07a-eea0e5784482" />
+<img width="2152" height="1214" alt="SalesDashboard png 2" src="https://github.com/user-attachments/assets/fdbfe2cc-b2fd-4b2d-9ef8-840a47c4bc8d" />
+
 📁 Dataset Information
 
 The dataset contains transactional sales data including:
@@ -159,6 +165,8 @@ Customer segmentation
 Power BI Service auto refresh
 
 Drill-through product insights
+
 🏁 Conclusion
 
 The Sales & Performance Dashboard provides a centralized and interactive view of business performance using modern BI visualization and data storytelling techniques.
+
